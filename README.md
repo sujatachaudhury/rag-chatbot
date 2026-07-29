@@ -1,4 +1,4 @@
-# YTRAG
+# Agentic RAG
 
 An agentic RAG chatbot that answers questions about your own PDFs. Built
 this mainly to move past "naive RAG" (embed, retrieve top-k, stuff into a
