@@ -1,0 +1,5 @@
+[server]
+# transformers' lazy-loaded submodules (vision models we never use) make the
+# default file watcher's module-path scan noisy. Only "none" skips that scan
+# entirely -- "poll" still runs it. Re-run `streamlit run app.py` after edits.
+fileWatcherType = "none"

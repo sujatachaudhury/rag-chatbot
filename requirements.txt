@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+typesense
+langgraph
+langchain-google-genai
+google-genai
+langsmith
+beautifulsoup4
